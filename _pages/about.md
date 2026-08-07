@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 
 I am an associate professor at [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/) at Tsinghua University. 
 
