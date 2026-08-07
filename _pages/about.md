@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jianfeng Lin's academic webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Jianfeng Lin
+======
 
 I am an associate professor at [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/) at Tsinghua University. 
 
