@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Jianfeng Lin's academic webpage"
+title: "Jianfeng Lin"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Jianfeng Lin
 ======
 
 I am an associate professor at [Yau Mathematical Sciences Center (YMSC)](https://ymsc.tsinghua.edu.cn/) at Tsinghua University. 
