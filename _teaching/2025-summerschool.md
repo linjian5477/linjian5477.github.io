@@ -4,7 +4,7 @@ collection: teaching
 type: "summer school"
 permalink: 
 venue: "Tsinghua University"
-date: 2025-07
+date: 2025-07-01
 location: "Tsinghua University"
 ---
 
