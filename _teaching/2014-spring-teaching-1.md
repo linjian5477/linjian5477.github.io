@@ -8,7 +8,7 @@ date:
 location: ""
 ---
 
-During Summer 2026, a summer school on topology was hold in Tsinghua University. The lectuers produces series of learning guides to various areas in low dimensional topology.
+During Summer 2025, a summer school on topology was hold in Tsinghua University. The lecturers produces series of learning guides to various areas in low dimensional topology. We hope this could be useful to students and researchers who hope to enter these areas.
 
 [A learning guild to Seiberg-Witten invariants of 4-manifolds](../assets/SW.pdf) by Jianfeng Lin 
 
