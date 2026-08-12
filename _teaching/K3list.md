@@ -8,9 +8,8 @@ date: 2026-04-16
 location: ""
 ---
 
-I would like to strongly recommend the book 
-"K3: A new problem list in low-dimensional topology". 
-Editors R. İnanç Baykur, Daniel Ruberman, and Robion Kirby.
+I would like to strongly recommend the book "K3: A new problem list in low-dimensional topology", edited by R. İnanç Baykur, Daniel Ruberman, and Robion Kirby.
+
 Associate Editors: Carolyn Abbott, John A. Baldwin, Thomas Koberda, Marc Lackenby, Tye Lidman, Robert Lipshitz, Ciprian Manolescu, Jeffrey Meier, Maggie Miller, Priyam Patel, Mark Powell, Nick Salter, and Radmila Saždanović.
 
 AMS Mathematical Surveys and Monographs Series, Volume 295, 2026, 430 pages.
