@@ -19,6 +19,6 @@ Here are a [CV](../assets/CV.pdf) and a [publication list](../assets/publication
 
 Updates:
 
-o 2026 8.18: The paper "Non-Existence of Smooth Full-Holonomy Cayley Fibrations" by Jianfeng Lin, Viktor F. Majewski, Jacek Rzemieniecki has been posted on arxiv.
+2026 8.18: The paper "Non-Existence of Smooth Full-Holonomy Cayley Fibrations" by Jianfeng Lin, Viktor F. Majewski, Jacek Rzemieniecki has been posted on arxiv.
 
 
