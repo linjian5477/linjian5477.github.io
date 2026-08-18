@@ -15,7 +15,10 @@ I received my Ph.D. from UCLA in 2016, supervised by [Ciprian Manolescu](https:/
 
 Here are a [CV](../assets/CV.pdf) and a [publication list](../assets/publication_list.pdf).
 
-New Updates:
-2026 8.18: The paper "Non-Existence of Smooth Full-Holonomy Cayley Fibrations" by Jianfeng Lin, Viktor F. Majewski, Jacek Rzemieniecki has been posted on arxiv.
+
+
+Updates:
+
+o 2026 8.18: The paper "Non-Existence of Smooth Full-Holonomy Cayley Fibrations" by Jianfeng Lin, Viktor F. Majewski, Jacek Rzemieniecki has been posted on arxiv.
 
 
