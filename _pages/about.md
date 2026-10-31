@@ -13,7 +13,7 @@ My research interests include low-dimensional topology, gauge theory and Floer t
 
 I received my Ph.D. from UCLA in 2016, supervised by [Ciprian Manolescu](https://web.stanford.edu/~cm5/). After that, I was a C.L.E. Moore instructor at MIT (2016-2019), an assistant professor at USCD (2019-2021), before coming to Tsinghua in 2021.
 
-Here are a [CV](../assets/CV2610.pdf) a [research statement] (../assets/RS2610.pdf) and a [publication list](../assets/PL2610.pdf).
+Here are a [CV](../assets/CV2610.pdf) a [research statement](../assets/RS2610.pdf) and a [publication list](../assets/PL2610.pdf).
 
 
 
